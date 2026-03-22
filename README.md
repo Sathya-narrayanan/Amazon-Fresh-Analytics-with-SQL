@@ -16,8 +16,6 @@ SQL → Database design, queries, joins, aggregations, and constraints
 
 Microsoft Excel → Data cleaning and preprocessing
 
-Power BI → Dashboard creation and visualization
-
 ## 🔹 Key Features
 
 Customer analysis including top spenders and inactive users
